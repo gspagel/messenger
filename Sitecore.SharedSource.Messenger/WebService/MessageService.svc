@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Sitecore.SharedSource.Messenger.WebService.MessageService" CodeBehind="MessageService.svc.cs" %>
